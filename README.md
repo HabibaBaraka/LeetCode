@@ -14,10 +14,3 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/habibabaraka?theme=light&font=Nunito&ext=heatmap)
 
-## 🎉 LeetCode Achievement Badges
-
-### 🥇 100 Days Badge 2025
-<img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/100days.png" width="400"/>
-
-### 🥈 50 Days Badge 2025
-<img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/50days.png" width="400"/>
